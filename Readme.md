@@ -72,6 +72,6 @@ to **transform raw data into meaningful visuals** that support decision-making, 
 ---
 
 ### 🧭 Contact
-📧 **Email:** viraannisa.trivita@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/viraannisatrivita  
+📧 **Email:** viravita.nisa@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/vira-annisa-trivita  
 🐙 **GitHub:** https://github.com/viratrv
