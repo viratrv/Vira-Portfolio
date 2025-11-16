@@ -1,58 +1,71 @@
 # 🌿 Vira Annisa Trivita — Project Portfolio
 
 Welcome to my project portfolio!  
-Here, I showcase a collection of projects focused on **data analysis, visualization, and infographics** — combining insights with design to communicate information clearly and effectively.  
+Here, I showcase a collection of projects focused on **data analysis, visualization, and infographics** — combining insights with design to communicate information clearly and effectively.
 
-Each project includes a concise overview and a direct GitHub link to the corresponding file.  
-
----
-
-## 📊 1. FnB Sales Dashboard
-**Overview:**  
-This dashboard provides an analytical view of **Food & Beverage (FnB)** sales performance. It highlights key business metrics such as revenue, profit, and transaction trends, allowing users to **monitor performance and identify growth opportunities** at a glance.  
-
-🔗 **GitHub Link:** [FnB Sales Dashboard](https://github.com/viratrv/Vira-Portfolio/blob/main/Dashboard/FnB%20Sales%20Dashboard.pbix)
+Each project includes a concise overview and a direct GitHub link to the corresponding file.
 
 ---
 
-## 🛒 2. Supermarket Sales Dashboard
+## 🆚 1. Competitor Sales Analysis Dashboard
 **Overview:**  
-This project focuses on **supermarket sales analytics**, visualizing key metrics and sales patterns. The dashboard supports **quick data interpretation**, helping decision-makers track store performance, customer behavior, and profitability in a clear, interactive format.  
+This dashboard provides an overview of **Sintec’s sales performance** and compares it against major competitors. It highlights company-level sales differences and includes **product-level comparisons** across competing brands, offering a clear view of market positioning and competitive performance.
 
-🔗 **GitHub Link:** [Supermarket Sales Dashboard](https://github.com/viratrv/Vira-Portfolio/blob/main/Dashboard/Supermarket%20Dashboard.pbix)
+🔗 **GitHub Link:**  
+[Competitor Sales Analysis Dashboard](https://github.com/viratrv/Vira-Portfolio/tree/main/Dashboard)
 
 ---
 
-## 🩺 3. Health Issue Infographic: Rabies
+## 🍽️ 2. FnB Sales Dashboard
 **Overview:**  
-This infographic aims to raise **public awareness about rabies**, a preventable yet potentially fatal disease. It visually explains **how rabies spreads, its symptoms, and preventive actions**. Designed for clarity, it encourages **safe human–animal interactions** and promotes early treatment awareness.  
+This dashboard provides an analytical view of **Food & Beverage (FnB)** sales performance. It highlights key metrics such as revenue, profit, and transaction patterns, enabling users to **monitor performance and discover growth opportunities**.
 
-🖼️ **GitHub Link:** [Rabies Infographic](https://github.com/viratrv/Vira-Portfolio/blob/main/Infographic/Health%20Issues%20Infographics.png)
+🔗 **GitHub Link:**  
+[FnB Sales Dashboard](https://github.com/viratrv/Vira-Portfolio/tree/main/Dashboard)
 
 ---
 
-## 📉 4. Poverty Infographic: West Java
+## 🛒 3. Supermarket Sales Dashboard
 **Overview:**  
-This infographic visualizes the **distribution and intensity of poverty across regions in West Java**. By highlighting areas with higher concentrations, it serves as an accessible reference for **policy discussions, development programs, and public understanding**.  
+This project analyzes **supermarket sales** by presenting essential metrics and sales trends. The dashboard aids in **quick data interpretation**, making it easier to track store performance, customer behavior, and profitability.
 
-🖼️ **GitHub Link:** [Poverty Infographic](https://github.com/viratrv/Vira-Portfolio/blob/main/Infographic/Jawa%20Barat%20Poverty%20Infographic.png)
+🔗 **GitHub Link:**  
+[Supermarket Sales Dashboard](https://github.com/viratrv/Vira-Portfolio/tree/main/Dashboard)
 
 ---
 
-## ☕ 5. Clustering of Coffee Export Countries
+## 🩺 4. Health Issue Infographic: Rabies
 **Overview:**  
-This project analyzes **Indonesia’s coffee export patterns** by clustering destination countries based on their annual export volumes (2014–2023).  
-Through clustering, the project identifies **market groups with similar demand patterns** — distinguishing between **high-volume, stable markets** and those with **lower or more fluctuating demand**. The analysis supports better **market segmentation and export strategy**.  
+This infographic raises awareness about **rabies**, explaining how it spreads, its symptoms, and preventive measures. Designed for clarity, it provides accessible health information to encourage safer interactions and early treatment awareness.
 
-📂 **GitHub Link:** [Coffee Export Clustering](https://github.com/viratrv/Vira-Portfolio/tree/main/R%20Proj)
+🖼️ **GitHub Link:**  
+[Rabies Infographic](https://github.com/viratrv/Vira-Portfolio/blob/main/Infographic/Health%20Issues%20Infographics.png)
+
+---
+
+## 📉 5. Poverty Infographic: West Java
+**Overview:**  
+This infographic visualizes the **distribution and severity of poverty in West Java**. By highlighting regions with higher poverty levels, it serves as a reference for **policy discussions, development planning**, and public understanding.
+
+🖼️ **GitHub Link:**  
+[Poverty Infographic](https://github.com/viratrv/Vira-Portfolio/blob/main/Infographic/Jawa%20Barat%20Poverty%20Infographic.png)
+
+---
+
+## ☕ 6. Clustering of Coffee Export Countries
+**Overview:**  
+This project analyzes **Indonesia’s coffee export patterns** (2014–2023) by clustering destination countries based on annual export volumes. It identifies groups of countries with similar demand patterns — distinguishing **high-volume, consistent markets** from those with **lower or fluctuating demand**. The analysis supports better **market segmentation and export strategy development**.
+
+📂 **GitHub Link:**  
+[Coffee Export Clustering](https://github.com/viratrv/Vira-Portfolio/tree/main/R%20Proj)
 
 ---
 
 ## 🌟 Summary
 All projects share one core goal:  
-to **transform raw data into meaningful visuals** that support decision-making, raise awareness, and make insights more accessible.  
+to **transform raw data into meaningful visuals** that support decision-making, raise awareness, and make insights more accessible.
 
-> “Data becomes powerful when it tells a story.”  
+> “Data becomes powerful when it tells a story.”
 
 ✨ *Thank you for visiting my portfolio! Feel free to explore, connect, or reach out for collaboration.*
 
@@ -60,5 +73,5 @@ to **transform raw data into meaningful visuals** that support decision-making, 
 
 ### 🧭 Contact
 📧 **Email:** viraannisa.trivita@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/viraannisatrivita](https://www.linkedin.com/in/viraannisatrivita)  
-🐙 **GitHub:** [github.com/viratrv](https://github.com/viratrv)
+💼 **LinkedIn:** https://www.linkedin.com/in/viraannisatrivita  
+🐙 **GitHub:** https://github.com/viratrv
